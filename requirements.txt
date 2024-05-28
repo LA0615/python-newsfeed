@@ -4,6 +4,7 @@ cffi==1.16.0
 click==8.1.7
 cryptography==42.0.7
 Flask==3.0.3
+flask_sqlalchemy
 greenlet==3.0.3
 gunicorn==22.0.0
 importlib_metadata==7.1.0
