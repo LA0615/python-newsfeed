@@ -14,4 +14,4 @@ Please click the link for the application website
 [Just Tech News](https://just-tech-news-2e3096b04957.herokuapp.com/)
 
 Please see the screen shot for the deployed application 
-[screen shot](images/techNews.png)
+![screen shot](<images/techNews.png>)
